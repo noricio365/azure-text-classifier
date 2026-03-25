@@ -10,17 +10,13 @@ It analyzes input text and categorizes it into predefined labels.
 ## Screenshots
 This app classifies input text into sentiment categories.
 
-### Initial State
-<img src="initial.png" width="300">
+| Initial | Positive |
+|--------|----------|
+| <img src="initial.png" width="300"> | <img src="positive.png" width="300"> |
 
-### Positive
-<img src="positive.png" width="300">
-
-### Negative
-<img src="negative.png" width="300">
-
-### Neutral
-<img src="neutral.png" width="300">
+| Negative | Neutral |
+|----------|---------|
+| <img src="negative.png" width="300"> | <img src="neutral.png" width="300"> |
 
 ## Features
 - Text classification using Azure AI
