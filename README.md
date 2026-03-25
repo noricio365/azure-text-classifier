@@ -8,18 +8,19 @@ This is a text classification app using Azure AI Language.
 It analyzes input text and categorizes it into predefined labels.
 
 ## Screenshots
+This app classifies input text into sentiment categories.
 
 ### Initial State
-![Initial](initial.png)
+<img src="initial.png" width="300">
 
 ### Positive
-![Positive](positive.png)
+<img src="positive.png" width="300">
 
 ### Negative
-![Negative](negative.png)
+<img src="negative.png" width="300">
 
 ### Neutral
-![Neutral](neutral.png)
+<img src="neutral.png" width="300">
 
 ## Features
 - Text classification using Azure AI
