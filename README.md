@@ -41,3 +41,6 @@ API keys and endpoints are not included for security reasons.
 
 ## Additional Context
 This project simulates a system for handling consultation texts and assigning them based on content, inspired by real-world workflow automation needs.
+
+## Future Vision
+This project aims to evolve into a workflow automation system that classifies and routes client messages for social workers.
