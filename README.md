@@ -7,6 +7,20 @@ Text classification app using Azure AI Language
 This is a text classification app using Azure AI Language.
 It analyzes input text and categorizes it into predefined labels.
 
+## Screenshots
+
+### Initial State
+![Initial](initial.png)
+
+### Positive
+![Positive](positive.png)
+
+### Negative
+![Negative](negative.png)
+
+### Neutral
+![Neutral](neutral.png)
+
 ## Features
 - Text classification using Azure AI
 - Automatic categorization of input data
